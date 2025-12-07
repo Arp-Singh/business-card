@@ -30,7 +30,7 @@ Users should be able to:
 ### Showcase
 
 #### Full desktop view 
-![](http://i.imgur.com/OUkLi.gif)
+![](https://github.com/Arp-Singh/business-card/blob/main/Business_card_display.gif?raw=true)
 
 
 
